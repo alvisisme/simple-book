@@ -1,6 +1,6 @@
 {
-  "name": "gitbook",
-  "version": "3.2.3",
+  "name": "simple-book",
+  "version": "0.0.1",
   "homepage": "https://legacy.gitbook.com",
   "description": "Library and cmd utility to generate GitBooks",
   "main": "lib/index.js",
@@ -88,6 +88,10 @@
     "url": "https://github.com/GitbookIO/gitbook/issues"
   },
   "contributors": [
+    {
+        "name": "Alvis Zhao",
+        "email": "alvisisme@gmail.com"
+    },
     {
       "name": "Aaron O'Mullan",
       "email": "aaron@gitbook.com"

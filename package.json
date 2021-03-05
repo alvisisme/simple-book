@@ -1,6 +1,6 @@
 {
   "name": "simple-book",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://legacy.gitbook.com",
   "description": "Library and cmd utility to generate GitBooks",
   "main": "lib/index.js",
